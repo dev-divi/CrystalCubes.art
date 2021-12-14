@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&display=swap');
+
+/* to change color from white is in getstatus */ 
+
+body {
+  margin: 0;
+  font-family: 'Press Start 2P', cursive;
+  background-color:#111;
+  padding: 0;
+  color: white;
+  background-image: url("stars.jpeg");
+  background-repeat: no-repeat;
+  max-width: 600px; 
+  margin: 0 auto; 
+}
+p { 
+  margin: 0px;
+  padding: 0px;
+} 
+#title{
+  background-color: black;
+}
+.Minter {
+  background-color:black;
+}
+#introduction {
+  padding: 20px;
+  background-color: #999;
+  color: black;
+}
+#rarity { /* V A R I A T I O N S */ 
+  border: 10px solid #999;
+  background-color: #111;
+}
+#provenance { /* PROVENANCE */ 
+  border: 10px solid #999;
+  background-color: #111;
+}
+#roadmap {
+  border: 2px solid #999;
+}
+#community { /* COMMUNITY */ 
+    font-family: 'Fira Code', cursive;
+
+}
+#disclaimer { /* disclaimer */ 
+  border: 5px solid #999;
+  background-color: #111;
+}
+#border {
+  border: 5px solid #999;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+#link { 
+  color:#999;
+  
+}
+.hovfont {
+  font-family: 'Cinzel Decorative', cursive ;
+}
+#statbutton:hover {
+  background-color: #999;
+  color:#111;
+  border: 6px solid #111;
+}
+#statbutton {
+  font-family: 'Press Start 2P', cursive;
+  background-color: #111;
+  color: #999;
+  border: 4px solid #999;
+  padding: 8px;
+  font-size: 18px;
+  margin: 1px 1px;
+  cursor: pointer;
+  transition-duration: 0.8s;
+}
+#statbutton:hover {
+  background-color: #999;
+  color:#111;
+  border: 6px solid #111;
+}
+#button {
+  font-family: 'Press Start 2P', cursive;
+  background-color: #111;
+  color: #999;
+  border: 4px solid #999;
+  padding: 18px;
+  font-size: 20px;
+  margin: 4px 4px;
+  cursor: pointer;
+  border-radius: 12px;
+  transition-duration: 0.8s;
+
+}
+#button:hover {
+  background-color: #999;
+  color:#111;
+}
+#buttonspecial { 
+  font-family: 'Press Start 2P', cursive;
+  background-color: #111;
+  color: #FFF;
+  border: 2px solid #fff;
+  padding: 18px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 12px;
+  transition-duration: 0.8s;
+}
+#buttonspecial:hover {
+  background-color: #FFF;
+  color:#111;
+}
+h1 { 
+  font-size: 40px;
+}
+
+#walletButton {
+  text-align: right;
+  float:right;
+  margin-bottom: 50px;
+  line-height: 16px;
+  background-color: black;
+  color:#999;
+  padding: 18px;
+
+}
+#supermint {
+}
+#ladydescription{
+  text-align: center;
+  content-align: center;
+} 
+#mintButton {
+  margin-top: 40px;
+  background-color: black;
+  color:white;
+}
+#nft {
+  width: 400px;
+  height: 400px;
+  text-align: center;
+}
+#nftmain {
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  border: none;
+}
+#provenancelist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#provenancelist {
+  margin: 0;
+  padding: 0;
+  
+}
+#provenancelisthead {
+  font-size: 1.4em
+}
+#masterdirs {  
+  font-family: 'Fira Code', cursive;
+
+  font-size: 0.75em;
+}
+#ipfs_desc {
+  font-size: 1.8em;
+}
+#ipfs_desc_small {
+  font-size: 1.7em;
+}
+.hash {
+  font-size: 0.5em;
+  color: #a28351;
+  font-weight: 800;
+  text-decoration: none;
+  font-family: 'Press Start 2P', cursive;
+
+}
+.hash:hover {
+  font-size: 0.55em;
+  color: #a28351;
+  font-weight: 800;
+  text-decoration: underline;
+}
+.hash_alt {
+  font-size: 0.5em;
+  color: #a28351;
+  font-weight: 800;
+  text-decoration: none;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.hash_alt:hover {
+  color: #a28351;
+  font-weight: 800;
+  text-decoration: underline;
+  font-size: 0.55em;
+
+}
+.tokenid {
+  font-family: 'Fira Code', cursive;
+
+ color: white;
+ text-decoration: none;
+
+}
+.tokenid {
+  font-family: 'Fira Code', cursive;
+
+ color: white;
+ text-decoration: none;
+
+}
+.META {
+  color: #a28351;
+  font-size: 0.6em;
+  text-decoration: none;
+
+}
+.META:HOVER { 
+  text-decoration: underline;
+  font-weight: 800;
+
+}
+#fira { 
+  font-family: 'Fira Code', cursive;
+}
+#provenancelisthead {
+  font-family: 'Fira Code', cursive;
+  font-size: 1.4em;
+
+}
+
+#roadmap {
+  font-family: 'Fira Code', cursive;
+  font-size: 1.4em;
+
+}
