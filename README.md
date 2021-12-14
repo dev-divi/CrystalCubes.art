@@ -1,2 +1,3 @@
 # CrystalCubes.art
-The unreleased crystalcubes.art project hosted at https://crystalcubes.art/
+Unreleased Ethereum project hosted at https://crystalcubes.art/
+succeeded by A Mystery Cubes Club! 
