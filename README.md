@@ -1,2 +1,2 @@
 # CrystalCubes.art
-The unreleased crystalcubes.art project.
+The unreleased crystalcubes.art project hosted at https://crystalcubes.art/
